@@ -1,3 +1,5 @@
+## Management System
+본 프로젝트는 React를 이용한 China Mobile onenet 시스템 관리용 프로젝트 입니다.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
